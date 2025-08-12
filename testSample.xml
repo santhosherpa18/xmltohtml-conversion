@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="dryRun.xsl"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<document id="SMV" title="" name="" type="">
+    <chapter id="SMV_C" type="Sarga" name="">
+        <chapter-heading>Enter chapter heading</chapter-heading>
+        <introduction id="SMV_C_I">Enter introduction</introduction>
+        
+        <!-- First Shloka -->
+        <shloka id="SMV_C_S" type="Shloka">
+            Enter First line of shloka<br/>
+            Enter Second line of shloka
+        </shloka>
+        <shloka id="SMV_C_S" type="Shloka">
+            test2
+            <br/>
+            test2
+        </shloka>
+        <shloka id="SMV_C_S" type="Shloka">
+            Test
+            <br/>
+            
+        </shloka>    
+    </chapter>
+    <chapter id="SMV_C" type="Sarga" name="">
+        <chapter-heading>Enter chapter heading</chapter-heading>
+        <introduction id="SMV_C_I">Enter introduction</introduction>
+      <shloka id="SMV_C_S" type="Shloka">
+          secondShloka
+          <br/>
+          secondShloka2
+      </shloka>
+        <author-note>
+          author notes
+      </author-note>
+        
+        
+    </chapter>
+   
+</document>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sutraBhasha.xsl"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<document id="BSB" title="Brahma Sutra Bhashya" name="सूत्रप्रस्थानम्" type="">
+    <adhyaya id="BSB_A01" type="adhyaya" name="सूत्रप्रस्थानम्">
+        <adhyaya-heading>प्रथमोऽध्यायः - समन्वयाध्यायः</adhyaya-heading>
+        
+        <pada id="BSB_A01_PD01" type="pada" name="अन्यत्र प्रसिद्ध-नामात्मक-शब्दसमन्वयः‍‍">
+            
+            <adhikarana id="BSB_A01_PD01_AD01" type="adhikarana" name="जिज्ञासाधिकरणम्">
+                
+                <introduction id="BSB_A01_PD01_I01">
+                    नारायणं गुणैः सर्वैरुदीर्णं दोषवर्जितम्<br/>
+                    ज्ञेयं गम्यं गुरूंश्चापि नत्वा सूत्रार्थ उच्यते ॥
+                </introduction>
+                
+                <introduction id="BSB_A01_PD01_I02">
+                    द्वापरे सर्वत्र ज्ञान आकुलीभूते तन्निर्णयाय
+                    ब्रह्मरुद्रेन्द्रादिभिरर्थितो भगवान् नारायणो व्यासत्वेनावततार ।
+                    अथेष्टानिष्टप्राप्तिपरिहारेच्छूनां तद्योगमविजानतां तज्ज्ञापनार्थं
+                    वेदमुत्सन्नं व्यञ्जयंश्चतुर्धा व्यभजत्। चतुर्विंशतिधैकशतधा सहस्रधा द्वादशधा
+                    च । तदर्थनिर्णयाय ब्रह्मसूत्राणि चकार ।तच्चोक्तं स्कान्दे –
+                </introduction>
+                <introduction id="BSB_A01_PD01_gdt_23g_hgc">
+                    <em type="shloka">
+                        चतुर्धा व्यभजत् तांश्च चतुर्विंशतिधा पुनः<br/>
+                        चैकधा चैव तथैव च सहस्रधा ॥
+                    </em>
+                </introduction>
+                <introduction id="BSB_A01_PD01_vrz_23g_hgc">
+                    <em type="shloka">
+                        अवतीर्णो महायोगी सत्यवत्यां पराशरात् ।<br/>
+                        भगवान् वेदानुज्जहार हरिः स्वयम् ॥
+                    </em>
+                </introduction>
+                <introduction id="BSB_A01_PD01_ozl_k3g_hgc">
+                    <em type="shloka">
+                        ब्रह्मरुद्रादिदेवेषु मनुष्यपितृपक्षिषु ।  <br/>
+                        ज्ञानं   संस्थाप्य भगवान् क्रीडते पुरुषोत्तमः ।’इत्यादि ।
+                    </em>
+                </introduction>
+                <sutra id="BSB_A01_PD01_S01" type="sutra" name="">
+                    ॐ ॐअथातो ब्रह्मजिज्ञासा ॐ ॥                         01-01 ॥
+                    
+                </sutra>
+                
+                <bhashya-collection id="bhashya-BSB_A01_PD01_S01">
+                    <bhashya id="BSB_A01_PD01_S01_B01">
+                        ‘अथ’ शब्दो                             मङ्गलार्थोऽधिकारानन्तर्यार्थश्च । ‘अतः’ शब्दो हेत्वर्थः।
+                        <em type="shloka">
+                            
+                        </em>
+                    </bhashya>
+                </bhashya-collection>
+                
+            </adhikarana>
+        </pada>
+    </adhyaya>
+</document>
