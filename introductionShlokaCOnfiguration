@@ -1,0 +1,6 @@
+<introduction id="BSB_A01_PD01_${id}">
+    <em type="shloka">
+        ${ask('Enter first line of Shloka', input_type, '')}<br/>
+        ${ask('Enter second line of Shloka', input_type, '')}
+    </em>
+</introduction>
