@@ -1,0 +1,34 @@
+<document id="BSB" title="" name="" type="">
+    <adhyaya id="BSB_A01" type="adhyaya" name="">
+        <adhyaya-heading></adhyaya-heading>
+        
+        <pada id="BSB_A01_PD01" type="pada" name="">
+            
+            <adhikarana id="BSB_A01_PD01_AD01" type="adhikarana" name="">
+                
+                <!-- First introduction: plain text -->
+                <introduction id="BSB_A01_PD01_I01">
+                    <br/>
+                </introduction>
+                
+                <!-- Second introduction: with em type -->
+                <introduction id="BSB_A01_PD01_I02">
+                    <em type="shloka">
+                        <br/>
+                    </em>
+                </introduction>
+                
+                <sutra id="BSB_A01_PD01_S01" type="sutra" name=" ">
+                </sutra>
+                
+                <bhashya-collection id="bhashya-BSB_A01_PD01_S01">
+                    <bhashya id="BSB_A01_PD01_S01_B01">
+                        <em type="shloka">
+                        </em>
+                    </bhashya>
+                </bhashya-collection>
+                
+            </adhikarana>
+        </pada>
+    </adhyaya>
+</document>
