@@ -1,0 +1,37 @@
+<document id="BSB" title="${ask('Enter Document title', input_type, '')}" name="${ask('Enter Documentname', input_type, '')}" type="">
+    <adhyaya id="BSB_A01" type="adhyaya" name="${ask('Enter Adhyaya name', input_type, '')}">
+        <adhyaya-heading>${ask('Enter Adhyaya heading', input_type, '')}</adhyaya-heading>
+        
+        <pada id="BSB_A01_PD01" type="pada" name="${ask('Enter Pada name', input_type, '')}">
+            
+            <adhikarana id="BSB_A01_PD01_AD01" type="adhikarana" name="${ask('Enter Adhikarana name', input_type, '')}">
+                
+                <introduction id="BSB_A01_PD01_I01">
+                    ${ask('Enter introduction first line text', input_type, '')}<br/>
+                    ${ask('Enter introduction second line text', input_type, '')}
+                </introduction>
+                
+                <introduction id="BSB_A01_PD01_I02">
+                    <em type="shloka">
+                        ${ask('Enter first line of Shloka', input_type, '')}<br/>
+                        ${ask('Enter second line of Shloka', input_type, '')}
+                    </em>
+                </introduction>
+                
+                <sutra id="BSB_A01_PD01_S01" type="sutra" name=" ">
+                    ${ask('Enter Sutra text', input_type, '')}
+                </sutra>
+                
+                <bhashya-collection id="bhashya-BSB_A01_PD01_S01">
+                    <bhashya id="BSB_A01_PD01_S01_B01">
+                        ${ask('Enter bhashya-collection text', input_type, '')}
+                        <em type="shloka">
+                            ${ask('Enter Bhashya text', input_type, '')}
+                        </em>
+                    </bhashya>
+                </bhashya-collection>
+                
+            </adhikarana>
+        </pada>
+    </adhyaya>
+</document>
